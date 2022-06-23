@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff704f"/>
+      <stop offset="1" stop-color="#e11014"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-services-web" transform="translate(-157 -1327)">
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="32.5" cy="32.5" r="32.5" transform="translate(157 1327)" fill="url(#linear-gradient)"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(-1.963 -2.456)">
+      <path id="Path_8" data-name="Path 8" d="M192.916,1349.633l-8.161,20" transform="translate(3.124 2.823)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <path id="Path_73" data-name="Path 73" d="M10.03,1.084,0,0,1.084,10.03" transform="translate(210.039 1362.579) rotate(135)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_74" data-name="Path 74" d="M10.288,8.98.259,10.064,1.343.035" transform="translate(179.896 1355.279) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

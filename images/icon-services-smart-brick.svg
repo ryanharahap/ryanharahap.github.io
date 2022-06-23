@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff704f"/>
+      <stop offset="1" stop-color="#e11014"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-services-smart-brick" transform="translate(-157 -1327)">
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="32.5" cy="32.5" r="32.5" transform="translate(157 1327)" fill="url(#linear-gradient)"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(160 1337.667)">
+      <path id="Path_75" data-name="Path 75" d="M48.487,36.333V23.3a.944.944,0,0,0-.916-.969H39.323V9.3a.944.944,0,0,0-.916-.969H20.08a.944.944,0,0,0-.916.969V22.331H10.916A.944.944,0,0,0,10,23.3V36.331Zm-1.833-1.526H30.16V23.4H46.654ZM21,10.166H37.491v11.4H21ZM11.833,23.4H28.327v11.4H11.833Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
